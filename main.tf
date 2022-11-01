@@ -1,6 +1,8 @@
-resource "null_resource" "example" {
+resource "null_resource" "example_0" {
 }
 
-resource "null_resource" "hello_world"{
-    
+resource "null_resource" "example_1"{
+}
+
+resource "null_resource" "example_2"{
 }
